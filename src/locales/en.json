@@ -1,0 +1,94 @@
+{
+    "common": {
+        "retry": "Retry",
+        "cancel": "Cancel",
+        "close": "Close",
+        "apply": "Apply",
+        "loading": "Loading..."
+    },
+    "loading": {
+        "initializing": "Initializing Audio Engine...",
+        "error": "Error initializing audio engine:",
+        "resetAndRestart": "Reset Settings & Restart",
+        "preset": "Loading Preset...",
+        "presetFailed": "Failed to load preset"
+    },
+    "overlay": {
+        "clickToStart": "Click to Start",
+        "tapToEnable": "Tap anywhere to enable audio"
+    },
+    "topbar": {
+        "hideUI": "Hide UI",
+        "fullscreen": {
+            "enter": "Enter Fullscreen",
+            "exit": "Exit Fullscreen"
+        },
+        "loadPreset": "Load Preset",
+        "octave": "OCT",
+        "settings": "Settings",
+        "devLogs": "Developer Logs",
+        "load": "Load"
+    },
+    "logs": {
+        "title": "Developer Logs",
+        "entries": "entries",
+        "clear": "Clear Logs",
+        "autoScroll": "Auto-scroll",
+        "noLogs": "No logs yet",
+        "consoleOutput": "Console output will appear here",
+        "latency": "LATENCY"
+    },
+    "settings": {
+        "title": "Settings",
+        "general": "General",
+        "audio": "Audio",
+        "display": "Display",
+        "about": "About",
+        "language": {
+            "label": "Language",
+            "desc": "Select application language",
+            "auto": "System Default"
+        },
+        "devMode": {
+            "label": "Developer Mode",
+            "desc": "Enable logs and debug tools",
+            "restart": "Changing developer mode requires restarting the application to take effect."
+        },
+        "processor": {
+            "label": "JS Processor",
+            "desc": "Audio backend technology in use",
+            "force": "Force ScriptProcessorNode",
+            "forceDesc": "Disable AudioWorklet, legacy mode (Requires Refresh)",
+            "noWorklet": "Browser does not support AudioWorklet, using ScriptProcessorNode automatically",
+            "restart": "Changing the audio processor type requires restarting the application to take effect."
+        },
+        "buffer": {
+            "label": "Buffer Size",
+            "desc": "Lower values reduce latency but increase CPU load. (Default: 1024)",
+            "custom": "Size",
+            "fastest": "256 (Fastest)",
+            "stable": "512 (Stable)",
+            "default": "1024 (Default)",
+            "highLatency": "2048 (High Latency)"
+        },
+        "layout": {
+            "label": "Key Layout",
+            "desc": "Select piano key display style",
+            "fill": "Fill Screen",
+            "squareGap": "Square (Gap)",
+            "squareCenter": "Square (Center)"
+        },
+        "restartRequired": "Restart Required",
+        "reloadNow": "Reload Now"
+    },
+    "app": {
+        "rotateHint": "Please rotate your device for the best experience"
+    },
+    "presetDialog": {
+        "title": "Load Preset",
+        "localFile": "Local .vital file",
+        "soundLibrary": "Sound Library (Public)",
+        "cancel": "Cancel",
+        "select": "Select Preset"
+    }
+}

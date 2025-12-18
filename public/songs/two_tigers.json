@@ -1,0 +1,204 @@
+{
+    "version": 1,
+    "base_pitch": 48,
+    "bpm": 120,
+    "key": 0,
+    "time": [
+        4,
+        4
+    ],
+    "sequences": [
+        {
+            "keys": [
+                7
+            ],
+            "duration": 500
+        },
+        {
+            "keys": [
+                8
+            ],
+            "duration": 500
+        },
+        {
+            "keys": [
+                9
+            ],
+            "duration": 500
+        },
+        {
+            "keys": [
+                7
+            ],
+            "duration": 500
+        },
+        {
+            "keys": [
+                7
+            ],
+            "duration": 500
+        },
+        {
+            "keys": [
+                8
+            ],
+            "duration": 500
+        },
+        {
+            "keys": [
+                9
+            ],
+            "duration": 500
+        },
+        {
+            "keys": [
+                7
+            ],
+            "duration": 500
+        },
+        {
+            "keys": [
+                9
+            ],
+            "duration": 500
+        },
+        {
+            "keys": [
+                10
+            ],
+            "duration": 500
+        },
+        {
+            "keys": [
+                11
+            ],
+            "duration": 1000
+        },
+        {
+            "keys": [
+                9
+            ],
+            "duration": 500
+        },
+        {
+            "keys": [
+                10
+            ],
+            "duration": 500
+        },
+        {
+            "keys": [
+                11
+            ],
+            "duration": 1000
+        },
+        {
+            "keys": [
+                11
+            ],
+            "duration": 250
+        },
+        {
+            "keys": [
+                12
+            ],
+            "duration": 250
+        },
+        {
+            "keys": [
+                11
+            ],
+            "duration": 250
+        },
+        {
+            "keys": [
+                10
+            ],
+            "duration": 250
+        },
+        {
+            "keys": [
+                9
+            ],
+            "duration": 500
+        },
+        {
+            "keys": [
+                7
+            ],
+            "duration": 500
+        },
+        {
+            "keys": [
+                11
+            ],
+            "duration": 250
+        },
+        {
+            "keys": [
+                12
+            ],
+            "duration": 250
+        },
+        {
+            "keys": [
+                11
+            ],
+            "duration": 250
+        },
+        {
+            "keys": [
+                10
+            ],
+            "duration": 250
+        },
+        {
+            "keys": [
+                9
+            ],
+            "duration": 500
+        },
+        {
+            "keys": [
+                7
+            ],
+            "duration": 500
+        },
+        {
+            "keys": [
+                8
+            ],
+            "duration": 500
+        },
+        {
+            "keys": [
+                18
+            ],
+            "duration": 500
+        },
+        {
+            "keys": [
+                7
+            ],
+            "duration": 1000
+        },
+        {
+            "keys": [
+                8
+            ],
+            "duration": 500
+        },
+        {
+            "keys": [
+                18
+            ],
+            "duration": 500
+        },
+        {
+            "keys": [
+                7
+            ],
+            "duration": 1000
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "vital-web-sdk",
+  "version": "1.0.0",
+  "description": "TypeScript Web SDK for Vital Synthesizer WASM",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/types.ts",
+  "exports": {
+    ".": "./src/index.ts",
+    "./utils": "./src/utils.ts",
+    "./types": "./src/types.ts"
+  },
+  "files": [
+    "src/",
+    "examples/",
+    "README.md"
+  ],
+  "scripts": {
+    "example": "npx serve -p 3000"
+  },
+  "keywords": [
+    "vital",
+    "synthesizer",
+    "wasm",
+    "audio",
+    "web-audio",
+    "typescript"
+  ],
+  "author": "",
+  "license": "GPL-3.0"
+}

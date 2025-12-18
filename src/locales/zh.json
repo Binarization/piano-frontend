@@ -1,0 +1,94 @@
+{
+    "common": {
+        "retry": "重试",
+        "cancel": "取消",
+        "close": "关闭",
+        "apply": "应用",
+        "loading": "加载中..."
+    },
+    "loading": {
+        "initializing": "正在初始化音频引擎...",
+        "error": "初始化音频引擎出错：",
+        "resetAndRestart": "重置设置并重启",
+        "preset": "正在加载音色...",
+        "presetFailed": "加载音色失败"
+    },
+    "overlay": {
+        "clickToStart": "点击开始",
+        "tapToEnable": "点击任意处开启音频"
+    },
+    "topbar": {
+        "hideUI": "隐藏界面",
+        "fullscreen": {
+            "enter": "全屏",
+            "exit": "退出全屏"
+        },
+        "loadPreset": "加载音色",
+        "octave": "八度",
+        "settings": "设置",
+        "devLogs": "日志",
+        "load": "加载"
+    },
+    "logs": {
+        "title": "开发者日志",
+        "entries": "条目",
+        "clear": "清空日志",
+        "autoScroll": "自动滚动",
+        "noLogs": "暂无日志",
+        "consoleOutput": "控制台输出显示在此处",
+        "latency": "延迟"
+    },
+    "settings": {
+        "title": "设置",
+        "general": "常规",
+        "audio": "音频",
+        "display": "显示",
+        "about": "关于",
+        "language": {
+            "label": "语言",
+            "desc": "选择应用语言",
+            "auto": "系统默认"
+        },
+        "devMode": {
+            "label": "开发者模式",
+            "desc": "启用日志和调试工具",
+            "restart": "更改开发者模式需要重启应用生效。"
+        },
+        "processor": {
+            "label": "JS 处理器",
+            "desc": "当前使用的音频后端技术",
+            "force": "强制使用 ScriptProcessorNode",
+            "forceDesc": "禁用 AudioWorklet，使用传统模式（需刷新）",
+            "noWorklet": "浏览器不支持 AudioWorklet，已自动使用 ScriptProcessorNode",
+            "restart": "更改音频处理器类型需要重启应用生效。"
+        },
+        "buffer": {
+            "label": "缓冲区大小",
+            "desc": "较低的值可降低延迟但增加 CPU 负载。（默认：1024）",
+            "custom": "大小",
+            "fastest": "256 (最快)",
+            "stable": "512 (稳定)",
+            "default": "1024 (默认)",
+            "highLatency": "2048 (高延迟)"
+        },
+        "layout": {
+            "label": "按键排布",
+            "desc": "选择钢琴按键显示方式",
+            "fill": "变形并充满全屏",
+            "squareGap": "正方形 - 有间隙",
+            "squareCenter": "正方形 - 居中无间隙"
+        },
+        "restartRequired": "需要重启",
+        "reloadNow": "立即重启"
+    },
+    "app": {
+        "rotateHint": "为了最佳体验，请旋转设备"
+    },
+    "presetDialog": {
+        "title": "加载音色",
+        "localFile": "本地 .vital 文件",
+        "soundLibrary": "音色库 (公开)",
+        "cancel": "取消",
+        "select": "选择音色"
+    }
+}
